@@ -1,5 +1,5 @@
 const clientID='bf72d615a6e74b65a37337a9e06fc9bb';
-const redirectUri ="http://localhost:3000/";
+const redirectUri ="https://ola-mansour.github.io/jammming/";
 let accessToken;
 const Spotify ={
 
