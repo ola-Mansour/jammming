@@ -1,1 +1,1 @@
-visit the web site [https://ola-mansour.github.io/jammming/]
+visit the WebSite [https://ola-mansour.github.io/jammming/]
